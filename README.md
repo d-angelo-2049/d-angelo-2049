@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome 2 My Github 👋
+- I'm D'Angelo.
+- Software engineer in Japan🇯🇵
+- **May the Engineering be with us** （良きエンジニアリングが私達とともにあらんことを）
 
-<!--
-**d-angelo-2049/d-angelo-2049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d-angelo-2049&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d-angelo-2049&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Github Trophy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=d-angelo-2049&row=2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Links
+- [Zenn.dev](https://zenn.dev/dai_otsuka) in japanese
+- [hatebablog](https://guynthecha1r.hatenablog.com/) in japanese 
