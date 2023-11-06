@@ -1,6 +1,6 @@
 ### Welcome 2 My Github 👋
 - I'm D'Angelo.
-- Software engineer in Japan🇯🇵
+- Software Engineer in Japan🇯🇵
 - **May the Engineering be with us** （良きエンジニアリングが私達とともにあらんことを）
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d-angelo-2049&theme=tokyonight)
