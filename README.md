@@ -12,4 +12,4 @@
 
 ## Links
 - [Zenn.dev](https://zenn.dev/dai_otsuka) in japanese
-- [hatebablog](https://guynthecha1r.hatenablog.com/) in japanese 
+- [hatenablog](https://guynthecha1r.hatenablog.com/) in japanese 
