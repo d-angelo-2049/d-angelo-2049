@@ -1,5 +1,4 @@
 ### Welcome 2 My Github 👋
-- I'm D'Angelo.
 - Software Engineer in Japan🇯🇵
 - **May the Engineering be with us** （良きエンジニアリングが私達とともにあらんことを）
 
